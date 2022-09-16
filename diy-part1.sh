@@ -19,10 +19,11 @@
 
 
 
-echo 'src-git nas kenzo https://github.com/linkease/nas-packages.git' >>feeds.conf.default
+echo 'src-git nas      https://github.com/linkease/nas-packages.git' >>feeds.conf.default
 echo 'src-git nas_luci https://github.com/linkease/nas-packages-luci.git' >>feeds.conf.default
 
 
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
+
 echo 'src-git kiddin9_pkg https://github.com/kiddin9/openwrt-packages' >>feeds.conf.default
